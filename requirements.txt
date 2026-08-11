@@ -1,0 +1,11 @@
+google-adk
+google-cloud-aiplatform
+google-cloud-aiplatform[adk,agent_engines]
+requests
+
+langfuse
+openinference-instrumentation-google-adk
+opentelemetry-sdk
+opentelemetry-exporter-otlp-proto-http
+python-dotenv
+
