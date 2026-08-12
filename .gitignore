@@ -45,3 +45,5 @@ Thumbs.db
 # ADK / agent-specific
 .adk/
 *.sqlite3
+
+test.py
